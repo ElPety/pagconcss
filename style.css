@@ -1,0 +1,22 @@
+header {
+    color: #84482D;
+    text-align: center;
+}
+
+.parrafos1 {
+   font-size: 18px;
+   line-height: 1.5em;
+   color: #1C1D1F;
+}
+
+.Imagenes {
+   display: flex;
+   justify-content: space-around;
+   border: 2px solid #BE6841;
+   padding: 20px;
+
+   img{
+    margin: 10px;
+    width: 150px;
+   }
+}
